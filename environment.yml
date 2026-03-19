@@ -1,0 +1,25 @@
+name: eosc-454-project
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - ipywidgets
+  - jupyter
+  - numpy>=1.22
+  - matplotlib
+  - pandas
+  - pymatsolver>=0.3
+  - pytest
+  - scikit-learn>=1.2
+  - scipy>=1.12
+  - scooby
+  - simpeg=0.25.0
+  - sympy
+
+# solver
+# uncomment the next line if you are on an intel platform
+# gives a more powerful solver than what numpy would give
+  - pydiso # if on intel pc]
+# uncomment this line if you want to install mumps solvers
+#  - python-mumps
+
