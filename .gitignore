@@ -208,3 +208,4 @@ __marimo__/
 
 # put Zone.Identifiers here
 *:Zone.Identifier
+.venv/
