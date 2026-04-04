@@ -3,7 +3,7 @@ My course project on inversion!
 
 This project uses Electric Resistivity Tomography (ERT) survey data collected in the Northwest Territories near Great Slave Lake, following a severe forest fire. The surveys were conducted to evaluate the impacts of forest fires on permafrost, as the region lies within a discontinuous permafrost zone. Data is available at https://ostrnrcan-dostrncan.canada.ca/entities/publication/6ad9de5f-0d13-4f13-8cf1-510dc0f1ed28
 
-Inversions are performed in Inversion.ipynb using SimPEG tools. More info on SimPEG is available here: https://simpeg.xyz
+Inversions are performed in Inversion.ipynb using SimPEG tools. More info on SimPEG is available here: https://simpeg.xyz. Note that project_utils.py and test_project_utils.py are not in use at this stage of the project, but may be implemented later for test cases and functions. 
 
 INSTALLATION INSTRUCTIONS:
 1. Clone the repo
