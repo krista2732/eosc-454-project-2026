@@ -11,4 +11,4 @@ INSTALLATION INSTRUCTIONS:
 2. Create new environment from environment.yml
 `conda env create -f environment.yml`
 3. Activate environment
-'conda activate eosc-454-project'
+`conda activate eosc-454-project`
